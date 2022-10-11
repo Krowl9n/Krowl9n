@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://sun1-18.userapi.com/c812702/u409227225/docs/d1/aafd0f1f5822/video.mp4?extra=dniXmaD70Vo-N9lq46bJE8_amEOBsvuRYMKTdZWXUIKN51xOIKg67iJucUfnE4P6SxAJwJ5PVt10ziXBoQFbo0S6q5-SoegAumWJerYNhKDFsZw5HU9s3EgReldb-nS_X_ENOEdFleoxbMNQFpSz6SPadLQ&dl=1.gif"/>
+  <img src="https://psv4.userapi.com/c848020/u466289668/docs/d2/94a3155a07b1/konturgusya.gif?extra=8Yw4WBYKa_Cxq1si42RCxyTftLnkA_XLbuPsSM_7nyfrFYN5YvlFbHeFn1-OWpEi7hHbKHDecgBQMlc2_MZIbTRYikgWQydMUZZF17A9DWadCSAodDsLrZoIhyexmuS_UIMIj716Owe_wCyozBAWUxFFATw.gif"/>
 </div>
