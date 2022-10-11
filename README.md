@@ -5,7 +5,7 @@
   <a href="Vk.com/krowl9n">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="(https://www.youtube.com/channel/UCP1nmOeMuZWr0xpz6dWm3Jw)">
+  <a href="(https://www.youtube.com/c/UCP1nmOeMuZWr0xpz6dWm3Jw)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
