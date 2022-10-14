@@ -24,6 +24,8 @@
 
 ### :man_technologist: About Me : I am Batabase administrator Developer <img src="https://media.giphy.com/media/jQVMnyuyzhR2Kiy9JJ/giphy.gif" width="30"> from Moscow.
 - 🧠 Little jimmy neutron
+- 👨‍🎓 sudent MPT
+- 🧒 17 years
 - ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
@@ -31,7 +33,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   </div>
  --- :fire: My Stats : 
+ 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krowl9n&theme=onedark_duo&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C)](https://git.io/streak-stats)
+ 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Krowl9n)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krowl9n&theme=solarized_dark)
   
